@@ -2,7 +2,7 @@
 
 En responsiv och modern hotellwebbplats utvecklad som slutprojekt i kursen Webbutveckling 1. Projektet tilldelades högsta betyg (A) för sin rena kodstruktur, semantiska uppbyggnad och pixel-perfekta design.
 
-👉 [Klicka här för att öppna livesidan](https://filip-brandt.github.io/modul4-hotell/index.html)
+👉 <a href="https://filip-brandt.github.io/modul4-hotell/index.html" target="_blank" rel="noopener noreferrer">Klicka här för att öppna livesidan</a>
 
 ## 📸 Förhandsvisning
 <img width="1688" height="935" alt="bild" src="https://github.com/user-attachments/assets/ca0c97ba-5cc4-4341-acbc-3d0d092762d8" />
