@@ -5,8 +5,7 @@ En responsiv och modern hotellwebbplats utvecklad som slutprojekt i kursen Webbu
 👉 [Klicka här för att öppna livesidan](https://filip-brandt.github.io/modul4-hotell/index.html)
 
 ## 📸 Förhandsvisning
-![Skärmbild på hotellwebbplatsen](<img width="1688" height="935" alt="bild" src="https://github.com/user-attachments/assets/ca0c97ba-5cc4-4341-acbc-3d0d092762d8" />
-)
+<img width="1688" height="935" alt="bild" src="https://github.com/user-attachments/assets/ca0c97ba-5cc4-4341-acbc-3d0d092762d8" />
 
 ## 🛠️ Tekniska höjdpunkter
 * **Semantisk HTML5:** Uppbyggd med ett starkt fokus på tillgänglighet (accessibility) och korrekt dokumentstruktur.
